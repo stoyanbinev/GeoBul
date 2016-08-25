@@ -65,8 +65,8 @@ A geolocation module for Bulgaria based on Boyan Yurukov's geocoding resources -
 ## Release History
 
 * 1.0.0 Initial release
-<<<<<<< HEAD
+
 
 * 1.0.1 Fixed README
 =======
->>>>>>> origin/master
+
