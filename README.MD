@@ -55,7 +55,6 @@ A geolocation module for Bulgaria based on Boyan Yurukov's geocoding resources -
   
   object.lng   		// longtitude as float
   
->>>>>>> origin/master
   object.distanceTo     // distance from original coords to settlement
   
 
@@ -65,7 +64,7 @@ A geolocation module for Bulgaria based on Boyan Yurukov's geocoding resources -
 ## Release History
 
 * 1.0.0 Initial release
-
+=======
 
 * 1.0.1 Fixed README
 =======
