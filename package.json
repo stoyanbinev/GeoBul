@@ -1,6 +1,6 @@
 {
   "name": "geobul",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Bulgarian Geolocation module",
   "main": "geobul.js",
   "scripts": {
@@ -19,6 +19,7 @@
   "files": [
     "settlements.json"
   ],
+  
   
   "author": "Stoyan Binev",
  "licenses": [
