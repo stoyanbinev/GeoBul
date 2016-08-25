@@ -37,9 +37,7 @@ A geolocation module for Bulgaria based on Boyan Yurukov's geocoding resources -
   object.distanceTo     // distance from original coords to settlement
   
 
-## Tests
 
-  npm test
 
 
 ## Release History
